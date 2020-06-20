@@ -62,3 +62,9 @@ body {
   height: auto;
   width: 100%;
 }
+
+@media (min-width: 1600px) {
+  .site-main {
+    background: #563e27 url("images/site/shuriken-forrest.png") no-repeat fixed center;
+  }
+}
